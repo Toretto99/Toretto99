@@ -1,4 +1,4 @@
-Hi !👋 My name is Mihai Seles 
+ Hi !👋 My name is Mihai Seles 
 
 🇮🇹 Based in Italy 🇮🇹 | Back-End Developer | Python Enthusiast 🐍 | Open Source Passionate 
 
