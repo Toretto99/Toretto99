@@ -3,12 +3,12 @@
 🇮🇹 Currently in Italy 🇮🇹 | Back-End Developer | Python Enthusiast 🐍 | Open Source Passionate 
 
 👨‍💻 About Me 
-  - Faster Learner
+  - Strong ability to learn quickly and adapt easily to new challenges
   - Passionate about back-end development, specializing in Python
   - Always eager to explore and contribute to open source projects
   - Always ready to learn something new
   - A deeeep love for Machine Learning🤖
-  - Excited about my next adventure: diving into Java
+  - My next adventure: diving into Java
 
 🚀 Tech Stack
   - 💼 Python
