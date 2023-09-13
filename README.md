@@ -1,6 +1,6 @@
  Hi !👋 My name is Mihai Seles 
 
-🇮🇹 Based in Italy 🇮🇹 | Back-End Developer | Python Enthusiast 🐍 | Open Source Passionate 
+🇮🇹 Currently in Italy 🇮🇹 | Back-End Developer | Python Enthusiast 🐍 | Open Source Passionate 
 
 👨‍💻 About Me 
   - Faster Learner
