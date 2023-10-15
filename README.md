@@ -1,6 +1,6 @@
  Hi !👋 My name is Mihai Seles 
 
-🇮🇹 Currently in Italy 🇮🇹 | Back-End Developer | Python Enthusiast 🐍 | Open Source Passionate 
+🇮🇹 Currently in Italy 🇮🇹 | Back-End Developer | Python Enthusiast 🐍 | Open Source Passionate  
 
 👨‍💻 About Me 
   - Strong ability to learn quickly and adapt easily to new challenges
@@ -8,7 +8,7 @@
   - Always eager to explore and contribute to open source projects
   - Always ready to learn something new
   - A deeeep love for Machine Learning🤖
-  - My next adventure: diving into Java
+  - My next adventure: learning Java 
 
 🚀 Tech Stack
   - 💼 Python
