@@ -16,7 +16,7 @@
   - ☕ Java (upcoming!)
 
 🌐 Connect with Me 
-- 💬 Let's chat about Python, open source, or anything tech-related.
+- 💬 Let's chat about Python, open source, or anything about tech.
 
 ### Skills  
 
